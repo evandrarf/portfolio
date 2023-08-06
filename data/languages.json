@@ -1,0 +1,138 @@
+[
+  {
+    "lang": "en",
+    "sections": [
+      {
+        "name": "nav",
+        "content": [
+          "Home",
+          "About",
+          "Projects"
+        ]
+      },
+      {
+        "name": "home",
+        "content": [
+          {
+            "name": "title",
+            "content": "I'm <span>Evandra</span> Raditya"
+          },
+          {
+            "name": "greeting",
+            "content": "HELLO"
+          },
+          {
+            "name": "description",
+            "content": "Student at SMKN 7 Semarang | Web Development Enthusiast | Fullstack Web Developer | Cyber Security Enthusiast"
+          }
+        ]
+      },
+      {
+        "name": "about_me",
+        "content": "\"Hello! I'm a student at SMKN 7 Semarang who's passionate about web development. Proficient in languages like <span>Javascript</span>, <span>PHP</span>, and <span>Python</span>, along with various frameworks, I'm diving into the digital world with creativity and commitment. <br />From crafting appealing designs to ensuring seamless functionality, I thrive on exploring coding's diverse aspects. My projects reflect my enthusiasm for creating technology solutions that captivate users. <br />Explore my portfolio to see a range of projects. Join me on this journey where technology and creativity unite for incredible online experiences\""
+      },
+      {
+        "name": "project_list",
+        "content": [
+          {
+            "name": "title",
+            "content": "Recent <br />Projects <span>+</span>"
+          },
+          {
+            "name": "visit",
+            "content": "Visit me on Github <i class=\"fa-brands fa-github fa-lg\"></i>"
+          }
+        ]
+      },
+      {
+        "name": "contact",
+        "content": [
+          {
+            "name": "button",
+            "content": "Send"
+          },
+          {
+            "name": "title",
+            "content": "Get in Touch &#128075;"
+          },
+          {
+            "name": "placeholder",
+            "content": [
+              "Your Name",
+              "Your Email",
+              "Your Message"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lang": "id",
+    "sections": [
+      {
+        "name": "nav",
+        "content": [
+          "Beranda",
+          "Tentang",
+          "Projek"
+        ]
+      },
+      {
+        "name": "home",
+        "content": [
+          {
+            "name": "title",
+            "content": "Saya <span>Evandra</span> Raditya"
+          },
+          {
+            "name": "greeting",
+            "content": "HALO"
+          },
+          {
+            "name": "description",
+            "content": "Siswa di SMKN 7 Semarang | Penggemar Pengembangan Web | Pengembang Web Fullstack | Penggemar Keamanan Siber"
+          }
+        ]
+      },
+      {
+        "name": "about_me",
+        "content": "\"Halo! Saya seorang siswa di SMKN 7 Semarang yang memiliki minat dalam pengembangan web. Mahir dalam bahasa pemrograman seperti <span>Javascript</span>, <span>PHP</span>, dan <span>Python</span>, serta berbagai frameworks. Saya mendalami dunia digital dengan kreativitas dan komitmen. <br />Mulai dari merancang desain menarik hingga memastikan fungsionalitas yang lancar. Saya tumbuh dalam menjelajahi berbagai aspek coding. Proyek-proyek saya mencerminkan antusiasme saya dalam menciptakan solusi teknologi yang memikat pengguna. <br />Jelajahi portofolio saya untuk melihat berbagai proyek. Bergabunglah dengan saya dalam perjalanan ini di mana teknologi dan kreativitas bersatu untuk pengalaman online yang luar biasa.\""
+      },
+      {
+        "name": "project_list",
+        "content": [
+          {
+            "name": "title",
+            "content": "Projek <br />Terbaru <span>+</span>"
+          },
+          {
+            "name": "visit",
+            "content": "Kunjungi saya di Github <i class=\"fa-brands fa-github fa-lg\"></i>"
+          }
+        ]
+      },
+      {
+        "name": "contact",
+        "content": [
+          {
+            "name": "button",
+            "content": "Kirim"
+          },
+          {
+            "name": "title",
+            "content": "Hubungi Saya &#128075;"
+          },
+          {
+            "name": "placeholder",
+            "content": [
+              "Nama Anda",
+              "Email Anda",
+              "Pesan Anda"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
